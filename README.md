@@ -1,1 +1,6 @@
-# InfoVis---Grupo24
+# ProyectoInfoVis-Grupo24
+
+Integrantes:
+Vicente González
+Asael Jalocha
+Francisca Silva
